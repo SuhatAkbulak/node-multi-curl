@@ -41,3 +41,4 @@ For detailed documentation and examples, check the [examples](./examples) direct
 ## License
 
 MIT# node-multi-curl
+# node-multi-curl
