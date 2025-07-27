@@ -40,4 +40,4 @@ For detailed documentation and examples, check the [examples](./examples) direct
 
 ## License
 
-MIT
+MIT# node-multi-curl
